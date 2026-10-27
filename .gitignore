@@ -1,0 +1,15 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local monitoring data (never commit your history)
+data/*.db
+data/*.db-journal
+!data/.gitkeep
+
+# Secrets / editor files
+.env
+.vscode/
