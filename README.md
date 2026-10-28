@@ -1,5 +1,8 @@
 Website Health Monitor
 
+use the app:
+https://websitehealthmonitor-nzb3z4fv4k3u2n6ubgqqjg.streamlit.app/#website-health-monitor
+
 A beginner-friendly Python tool that checks whether websites are UP, DOWN or DEGRADED, measures
 response time, records HTTP status codes and error reasons, and keeps a local history you can explore
 in a Streamlit dashboard.
